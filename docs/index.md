@@ -17,7 +17,7 @@ hero:
       link: /guide/03-cpp-core
     - theme: alt
       text: ⭐ GitHub
-      link: https://github.com/Quantum505Void/cpp-qt-interview
+      link: https://github.com/Quantum404Void/cpp-qt-interview
 
 features:
   - icon: 🧩

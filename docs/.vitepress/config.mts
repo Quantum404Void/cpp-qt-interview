@@ -19,7 +19,7 @@ export default withMermaid(defineConfig({
   // SEO head meta
   head: [
     ['meta', { name: 'keywords', content: 'C++, Qt, 面试题, 数据结构, 算法, Linux, 并发, 多线程, 智能指针, 模板, STL, CMake, Qt6, 桌面开发' }],
-    ['meta', { name: 'author', content: 'Quantum505Void' }],
+    ['meta', { name: 'author', content: 'Quantum404Void' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     // Open Graph
     ['meta', { property: 'og:type', content: 'website' }],
@@ -131,7 +131,7 @@ export default withMermaid(defineConfig({
 
     // 编辑链接
     editLink: {
-      pattern: 'https://github.com/Quantum505Void/cpp-qt-interview/edit/main/docs/:path',
+      pattern: 'https://github.com/Quantum404Void/cpp-qt-interview/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
 
@@ -298,7 +298,7 @@ export default withMermaid(defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Quantum505Void/cpp-qt-interview' }
+      { icon: 'github', link: 'https://github.com/Quantum404Void/cpp-qt-interview' }
     ],
 
     footer: {
